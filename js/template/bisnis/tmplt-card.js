@@ -1,0 +1,2 @@
+/* PawPics · Templat "Kartu nama" (card) · jenis: Bisnis · 1050×600 px */
+TPX.push(['card','Kartu nama',1050,600,()=>{B('#ffffff');S('rect',90,300,180,600,'#111827');S('circ',90,300,90,90,'#facc15');T('Nama Anda',650,230,84,'#111827',1,FK.Montserrat);T('Desainer Kreatif',650,320,40,'#6b7280',0,FK.Poppins);T('+62 812 3456 7890\nhalo@email.com\nwww.situsanda.com',650,450,36,'#374151',0,FK.Poppins)}]);

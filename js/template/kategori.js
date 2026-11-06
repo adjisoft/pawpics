@@ -1,0 +1,2 @@
+/* kategori.js — peta id templat → jenis (dipindah dari tpl2.js). Templat baru cukup mengisi elemen ke-6 ([id,nama,w,h,fn,'Jenis']). */
+window.TCAT={story:'Sosmed',ig:'Promo',yt:'Sosmed',card:'Bisnis',undangan:'Acara',menu:'Bisnis',neon:'Acara',ucap:'Acara',banner:'Promo',retro:'Acara',quote:'Sosmed',fb:'Sosmed',resume:'Bisnis',podcast:'Sosmed',album:'Sosmed',tips:'Sosmed',konser:'Acara',jual:'Promo',loker:'Bisnis',webinar:'Acara',lebaran:'Acara',wisata:'Acara',game:'Sosmed',polaroid:'Foto'};

@@ -1,0 +1,22 @@
+name: "💡 Saran dan ide"
+description: "Usul fitur atau perbaikan"
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: ide
+    attributes:
+      label: "Idemu"
+      description: "Masalah apa yang ingin diselesaikan? Bagaimana bayanganmu?"
+    validations:
+      required: true
+  - type: textarea
+    id: alternatif
+    attributes:
+      label: "Alternatif atau contoh aplikasi lain"
+      description: "Opsional."
+  - type: checkboxes
+    id: bantu
+    attributes:
+      label: "Kontribusi"
+      options:
+        - label: "Saya bersedia mencoba mengerjakannya lewat Pull Request"

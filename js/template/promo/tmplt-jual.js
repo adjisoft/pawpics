@@ -1,0 +1,2 @@
+/* PawPics · Templat "Iklan produk" (jual) · jenis: Promo · 1080×1080 px */
+TPX.push(['jual','Iklan produk',1080,1080,()=>{B('#fef3c7');S('circ',650,540,720,720,'#f59e0b');S('rrect',650,540,420,420,'#ffffff',.9);T('FOTO\nPRODUK',650,540,64,'#a16207',1,FK.Poppins);T('PROMO\nBARU',270,330,110,'#7c2d12',0,FK['Abril Fatface']);T('Rp99.000',270,720,70,'#dc2626',1,FK.Poppins);T('Stok terbatas!',270,820,40,'#78350f',0,FK.Caveat)}]);

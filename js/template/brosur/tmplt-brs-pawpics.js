@@ -1,0 +1,4 @@
+/* PawPics · Templat "Brosur PawPics (clickbait)" (brs-pawpics) · jenis: Brosur · 1240×1754 px */
+(()=>{const {F}=TPLH;
+TPX.push(['brs-pawpics','Brosur PawPics (clickbait)',1240,1754,()=>{B('#4f46e5','#be185d');T('STOP!',620,200,300,'#fde047',0,F('Bangers'));T('Jangan instal aplikasi\nedit foto dulu...',620,520,92,'#ffffff',1,F('Poppins'));T('sebelum kamu lihat ini',620,730,52,'#fde047',1,F('Poppins'));S('rrect',620,1010,1000,420,'#ffffff');T('PawPics',620,900,150,'#4f46e5',1,F('Poppins'));T('Editor foto lengkap\nlangsung di browser.',620,1090,56,'#18181b',0,F('Poppins'));T('•  Tanpa instal\n•  Lapisan, filter, topeng, teks\n•  Simpan JPG / PNG',620,1400,50,'#ffffff',1,F('Poppins'));T('Hasil editmu bikin teman nanya\n"edit pakai apa?"',620,1560,44,'#fde047',0,F('Poppins'));S('rrect',620,1670,1000,110,'#fde047');T('BUKA: adjisoft.github.io/pawpics',620,1670,44,'#312e81',0,F('Archivo Black'))},'Brosur']);
+})();

@@ -1,0 +1,2 @@
+/* PawPics · Templat "Banner gaming" (game) · jenis: Sosmed · 1600×600 px */
+TPX.push(['game','Banner gaming',1600,600,()=>{B('#0a0a1a','#2d1b69');S('rect',800,300,1500,500,'#000000',.35);T('PIXEL QUEST',800,260,130,'#4ade80',0,FK['Press Start 2P']);G('#4ade80',30);T('PRESS START',800,430,40,'#fbbf24',0,FK['Press Start 2P']);S('diamond',200,300,160,160,'#f472b6');S('diamond',1400,300,160,160,'#38bdf8')}]);

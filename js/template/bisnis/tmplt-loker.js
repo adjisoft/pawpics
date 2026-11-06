@@ -1,0 +1,2 @@
+/* PawPics · Templat "Lowongan kerja" (loker) · jenis: Bisnis · 1080×1350 px */
+TPX.push(['loker','Lowongan kerja',1080,1350,()=>{B('#1d4ed8');S('circ',900,200,520,520,'#3b82f6',.5);T('KAMI\nMEREKRUT!',540,330,170,'#ffffff',0,FK.Anton);S('rrect',540,790,880,360,'#ffffff');T('Desainer Grafis · Admin Sosmed\nPenempatan Jakarta · Full time',540,790,48,'#1e3a8a',0,FK.Poppins);T('Kirim CV ke hrd@perusahaan.com',540,1130,42,'#bfdbfe',0,FK.Poppins)}]);

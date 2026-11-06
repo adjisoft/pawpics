@@ -1,0 +1,27 @@
+name: "🐞 Laporan bug"
+description: "Ada yang tidak berjalan semestinya"
+labels: ["bug"]
+body:
+  - type: textarea
+    id: apa
+    attributes:
+      label: "Apa yang terjadi?"
+      description: "Jelaskan singkat. Tangkapan layar sangat membantu."
+    validations:
+      required: true
+  - type: textarea
+    id: langkah
+    attributes:
+      label: "Langkah untuk mengulang"
+      placeholder: "1. Buka ...\n2. Klik ...\n3. Lihat ..."
+    validations:
+      required: true
+  - type: textarea
+    id: harusnya
+    attributes:
+      label: "Seharusnya bagaimana?"
+  - type: input
+    id: lingkungan
+    attributes:
+      label: "Browser dan perangkat"
+      placeholder: "Chrome 130 / Android 14"

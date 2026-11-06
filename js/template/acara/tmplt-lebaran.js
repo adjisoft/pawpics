@@ -1,0 +1,2 @@
+/* PawPics · Templat "Ucapan hari raya" (lebaran) · jenis: Acara · 1080×1080 px */
+TPX.push(['lebaran','Ucapan hari raya',1080,1080,()=>{B('#064e3b','#022c22');S('circ',800,280,300,300,'#fde68a');S('circ',860,250,270,270,'#064e3b');T('Selamat Hari Raya',540,560,120,'#fde68a',0,FK['Great Vibes']);T('Mohon maaf lahir dan batin',540,740,52,'#d1fae5',0,FK.Cinzel);S('star',200,240,60,60,'#fde68a');S('star',340,150,40,40,'#fde68a')}]);

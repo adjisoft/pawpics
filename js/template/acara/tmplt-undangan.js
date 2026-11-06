@@ -1,0 +1,2 @@
+/* PawPics · Templat "Undangan" (undangan) · jenis: Acara · 1240×1754 px */
+TPX.push(['undangan','Undangan',1240,1754,()=>{B('#14532d','#052e16');T('Undangan',620,420,110,'#fde68a',0,FK['Great Vibes']);T('PERNIKAHAN',620,560,70,'#fde68a',0,FK.Cinzel);T('Rina & Dimas',620,820,150,'#ffffff',0,FK['Great Vibes']);S('diamond',620,1000,50,50,'#fde68a');T('Sabtu, 20 Desember 2026\nPukul 10.00 WIB\nGedung Serbaguna, Jakarta',620,1230,48,'#d1fae5',0,FK.Cinzel)}]);

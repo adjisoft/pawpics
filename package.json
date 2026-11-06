@@ -1,0 +1,11 @@
+{
+  "name": "pawpics",
+  "private": true,
+  "description": "PawPics — editor foto & desain di browser (GPL)",
+  "type": "module",
+  "scripts": {
+    "cek": "node tools/cek-template.mjs",
+    "baru": "node tools/baru-template.mjs"
+  },
+  "license": "GPL-3.0-or-later"
+}

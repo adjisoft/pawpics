@@ -1,0 +1,2 @@
+/* PawPics · Templat "Menu kafe" (menu) · jenis: Bisnis · 1240×1754 px */
+TPX.push(['menu','Menu kafe',1240,1754,()=>{B('#fffbeb');S('rect',620,200,1240,400,'#92400e');T('MENU KAFE',620,200,150,'#fffbeb',0,FK['Abril Fatface']);T('KOPI\nEspresso   18k\nLatte   28k\nKopi Susu   25k',320,800,54,'#451a03',0,FK['Roboto Slab']);T('MAKANAN\nRoti Bakar   22k\nNasi Goreng   35k\nPancake   30k',930,800,54,'#451a03',0,FK['Roboto Slab']);T('Buka setiap hari 08.00–22.00',620,1620,44,'#92400e',0,FK.Poppins)}]);

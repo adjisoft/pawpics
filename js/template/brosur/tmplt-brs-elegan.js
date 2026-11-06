@@ -1,0 +1,4 @@
+/* PawPics · Templat "Brosur Elegan Minimal" (brs-elegan) · jenis: Brosur · 1240×1754 px */
+(()=>{const {F}=TPLH;
+TPX.push(['brs-elegan','Brosur Elegan Minimal',1240,1754,()=>{B('#f6f1e9');T('NAMA USAHA',620,140,34,'#1c1917',1,F('Montserrat'));S('rect',620,200,1000,3,'#1c1917');T('Judul brosur\nyang elegan',620,480,170,'#1c1917',0,F('Playfair Display'));T('Tagline singkat yang menenangkan',620,720,46,'#57534e',0,F('Poppins'));S('rect',620,1000,1000,400,'#e7dccb');T('AREA FOTO',620,1000,50,'#8a6a3a',1,F('Poppins'));[0,1,2].forEach(i=>{T('0'+(i+1),240+i*380,1300,36,'#8a6a3a',1,F('Poppins'));T(['Layanan A','Layanan B','Layanan C'][i],240+i*380,1370,50,'#1c1917',0,F('Playfair Display'));T('Deskripsi singkat\ndua baris',240+i*380,1480,32,'#57534e',0,F('Poppins'))});S('rect',620,1620,1000,3,'#1c1917');T('0812 3456 7890  ·  @namausaha',620,1690,34,'#1c1917',1,F('Poppins'))},'Brosur']);
+})();

@@ -1,0 +1,39 @@
+name: "🧩 Usul atau minta templat baru"
+description: "Punya ide templat? Ceritakan di sini, atau langsung buat PR-nya!"
+labels: ["template"]
+body:
+  - type: dropdown
+    id: jenis
+    attributes:
+      label: "Jenis"
+      options:
+        - sosmed
+        - promo
+        - brosur
+        - bisnis
+        - acara
+        - foto
+        - kolase
+        - pendidikan
+        - kreatif
+        - lainnya
+    validations:
+      required: true
+  - type: input
+    id: ukuran
+    attributes:
+      label: "Ukuran (px)"
+      placeholder: "1240x1754 (A4)"
+  - type: textarea
+    id: deskripsi
+    attributes:
+      label: "Seperti apa templatnya?"
+      description: "Tema, warna, tata letak, teks contoh. Sketsa atau gambar referensi boleh (bukan karya berhak cipta orang lain)."
+    validations:
+      required: true
+  - type: checkboxes
+    id: bantu
+    attributes:
+      label: "Kontribusi"
+      options:
+        - label: "Saya akan membuatnya sendiri dan mengirim PR"

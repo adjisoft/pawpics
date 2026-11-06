@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "📖 Panduan membuat templat"
+    url: "https://github.com/adjisoft/pawpics/blob/main/js/template/README.md"
+    about: "Baca dulu sebelum mengusulkan atau membuat templat baru."

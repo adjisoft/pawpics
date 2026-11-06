@@ -1,0 +1,2 @@
+/* PawPics · Templat "Post tips" (tips) · jenis: Sosmed · 1080×1350 px */
+TPX.push(['tips','Post tips',1080,1350,()=>{B('#ecfeff');S('rrect',540,675,940,1190,'#ffffff');S('rect',540,190,940,150,'#0891b2');T('5 TIPS PRODUKTIF',540,190,80,'#ffffff',0,FK.Anton);T('1. Mulai dari tugas tersulit\n2. Atur waktu fokus 25 menit\n3. Matikan notifikasi\n4. Catat prioritas harian\n5. Istirahat yang cukup',540,720,54,'#164e63',0,FK.Poppins);T('Geser untuk tips lainnya →',540,1230,38,'#0891b2',0,FK.Poppins)}]);

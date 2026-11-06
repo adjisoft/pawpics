@@ -1,0 +1,4 @@
+/* PawPics · Templat "Brosur Promo Bold" (brs-promo) · jenis: Brosur · 1240×1754 px */
+(()=>{const {F}=TPLH;
+TPX.push(['brs-promo','Brosur Promo Bold',1240,1754,()=>{B('#0b0b0c');T('NAMA USAHA',620,120,40,'#ffd60a',1,F('Poppins'));T('MEGA\nPROMO',620,520,330,'#ffd60a',0,F('Bebas Neue'));S('rect',620,960,1000,300,'#ffd60a');T('DISKON 50%',620,940,200,'#111111',0,F('Bebas Neue'));T('Berlaku sampai [tanggal]',620,1070,44,'#111111',1,F('Poppins'));T('Tulis keunggulan produk\natau layanan di sini.',620,1300,52,'#ffffff',0,F('Poppins'));[0,1,2].forEach(i=>{S('rect',260+i*360,1470,300,8,'#ffd60a');T(['Kualitas terbaik','Harga bersahabat','Layanan cepat'][i],260+i*360,1530,38,'#ffffff',1,F('Poppins'))});S('rrect',620,1650,760,110,'#ffffff');T('HUBUNGI: 0812 3456 7890',620,1650,44,'#111111',1,F('Poppins'))},'Brosur']);
+})();

@@ -1,0 +1,2 @@
+/* PawPics · Templat "Flyer konser" (konser) · jenis: Acara · 1080×1350 px */
+TPX.push(['konser','Flyer konser',1080,1350,()=>{B('#18181b','#7f1d1d');S('star',540,470,760,760,'#fbbf24',.9);T('LIVE\nIN CONCERT',540,470,150,'#18181b',0,FK.Bangers);T('12 JANUARI 2027 · 19.00',540,930,60,'#fbbf24',0,FK.Oswald);T('Lapangan Merdeka · Tiket Rp150.000',540,1050,40,'#ffffff',0,FK.Poppins);S('rrect',540,1200,520,100,'#fbbf24');T('BELI TIKET',540,1200,48,'#18181b',1,FK['Archivo Black'])}]);
